@@ -38,7 +38,7 @@ This project explores what drives engagement on Instagram by analyzing a brandâ€
 ---
 
 ## ðŸ“‚ Project Structure
-- `Assignment_3.ipynb`: Main notebook containing data scraping, labeling, analysis, modeling, and results.
+- Main notebook containing data scraping, labeling, analysis, modeling, and results.
 - `README.md`: This documentation file.
 
 ---
