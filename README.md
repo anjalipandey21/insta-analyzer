@@ -40,7 +40,6 @@ This project explores what drives engagement on Instagram by analyzing a brand�
 ## 📂 Project Structure
 - Main notebook containing data scraping, labeling, analysis, modeling, and results.
 - This documentation file.
-
 ---
 
 ## 🚀 How to Run
